@@ -1,0 +1,19 @@
+/* Escribe tu css aqui */
+div{
+	width: 10500px;
+	height: 50px;
+	background-color: yellow;
+	display: block;
+}
+.segundo{
+	width: 10500px;
+	height: 50px;
+	background-color: red;
+	display: block;
+}
+.segundo p{
+	margin:0;
+}
+.tercero p{
+	margin:0;
+}
